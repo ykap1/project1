@@ -30,7 +30,7 @@ nav{
 }
 nav ul{
     width: 100%;
-    text-align: right;
+    text-align: left;
     /*height sets the nav button height position
     height: 18%;*/
 }
@@ -52,7 +52,7 @@ nav ul li a{
     text-decoration: none;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20x;
-    float: right;
+    float: left;
     display: block;
     text-align: center;
 
